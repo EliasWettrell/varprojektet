@@ -1,5 +1,5 @@
 # varprojektet
-
+Elias Wettrell, Nils, Frendin och jonatan Bringevik
 
 Vecka 10
 Delade in oss i grupper. jag jobbar med: Nils frendin och Jonatan bringevik.
