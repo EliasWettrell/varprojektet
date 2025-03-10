@@ -10,5 +10,6 @@ Vecka 11
 Idag var en av våra gruppmedlemar Nils borta vilket gjorde att vi kanske inte riktigt fick gjort lika mycket som vanligtvis hade. 
 Jag gjorde idag en Moodboard för att få en tdlig bild av hur vårt tema på hemsidan ska se ut. 
 Jonte jobbade i Bootstrap buildern och tog fram en bra font. 
+Vi började också titta på hur logan eventuellt skulle kunna se ut. 
 
 
