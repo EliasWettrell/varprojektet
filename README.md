@@ -12,4 +12,9 @@ Jag gjorde idag en Moodboard för att få en tdlig bild av hur vårt tema på he
 Jonte jobbade i Bootstrap buildern och tog fram en bra font. 
 Vi började också titta på hur logan eventuellt skulle kunna se ut. 
 
+Vecka 12
+Idag gjorde var en av våra gruppmedlemar Nils borta halva lektionen vilket lede till att det blev lite stressigt på sliutet men vi klarade det bra. 
+Jag gjorde en wireframe och spwamade sedan vidare på själva sidans strucktur. Jonte gjorde en sitemap och Nisse gjorde en "Call to action".
+Vi gjorde även tillsammans en map där alla filer ska ligga i.
+
 
