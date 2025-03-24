@@ -17,4 +17,8 @@ Idag gjorde var en av våra gruppmedlemar Nils borta halva lektionen vilket lede
 Jag gjorde en wireframe och spwamade sedan vidare på själva sidans strucktur. Jonte gjorde en sitemap och Nisse gjorde en "Call to action".
 Vi gjorde även tillsammans en map där alla filer ska ligga i.
 
+Vecka 13
+Idag började vi skapa själva hemsidan. Jonatan började göra start sidan, jag började göra sidan för kalla destinationer och Nils började göra sidan för varma destinationer. 
+Vi kom ganska långt med det är fortfarande mycket kvar att göra.
+
 
