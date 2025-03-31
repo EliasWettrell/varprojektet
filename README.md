@@ -21,4 +21,6 @@ Vecka 13
 Idag började vi skapa själva hemsidan. Jonatan började göra start sidan, jag började göra sidan för kalla destinationer och Nils började göra sidan för varma destinationer. 
 Vi kom ganska långt med det är fortfarande mycket kvar att göra.
 
+Vecka 14
+Idag fortsatte vi med våra olika delar av hemsidan. Jag Fortsatte med cold-delen, Nisse gjorde warm-delen och Jonte fortsatte med startsidan och fonter.
 
