@@ -24,3 +24,6 @@ Vi kom ganska långt med det är fortfarande mycket kvar att göra.
 Vecka 14
 Idag fortsatte vi med våra olika delar av hemsidan. Jag Fortsatte med cold-delen, Nisse gjorde warm-delen och Jonte fortsatte med startsidan och fonter.
 
+Vecka 15
+Idag har vi skrivit väldigt mycket kod. Jag har jobbat vidare med sidan för kalla destinationer och faktiskt kommit väldigt långt. Fixade "Billiga ställen" och "Populära ställen". Nästa lektion blir det att färdigställa sidan.
+
