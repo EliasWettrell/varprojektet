@@ -27,3 +27,6 @@ Idag fortsatte vi med våra olika delar av hemsidan. Jag Fortsatte med cold-dele
 Vecka 15
 Idag har vi skrivit väldigt mycket kod. Jag har jobbat vidare med sidan för kalla destinationer och faktiskt kommit väldigt långt. Fixade "Billiga ställen" och "Populära ställen". Nästa lektion blir det att färdigställa sidan.
 
+Vecka 19
+Idag la vi ut vår hemsidan på Github. 
+
