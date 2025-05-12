@@ -30,3 +30,6 @@ Idag har vi skrivit väldigt mycket kod. Jag har jobbat vidare med sidan för ka
 Vecka 19
 Idag la vi ut vår hemsidan på Github. 
 
+Vecka 20
+Idag fixade jag alla fel med min kod.
+
